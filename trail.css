@@ -26,8 +26,8 @@ h1{
 h1 span{
     border-radius: 8px;
     border: 6px dashed aliceblue;
-    padding-left: 8px;
-    padding-right: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 .bodyimg{
     float: left;
@@ -47,4 +47,12 @@ figcaption{
     font-size: x-large;
     padding: 1px;
     font-family: Grenze;
+}
+.social{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.interests{
+    font-family: Griffy;
+    font-size: xx-large;
 }
