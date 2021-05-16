@@ -1,0 +1,50 @@
+
+.navdiv{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: center;
+}
+body{
+    
+    background-image: url('Urban-scene-1__800_800.png');
+    font-family: Annie Use Your Telescope ;
+    font-size: xx-large;
+    color: aliceblue;
+    padding-right: 50px;
+    background-attachment: fixed;
+}
+.nav{
+    background-color: blueviolet;
+    padding-right: 2px;
+    border-radius: 3px;
+    width: 38px;
+}
+h1{
+    text-align: center;
+    font-family: Calligraffitti;
+}
+h1 span{
+    border-radius: 8px;
+    border: 6px dashed aliceblue;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.bodyimg{
+    float: left;
+    width :40%;
+}
+p span{
+    border: 8px dashed rgb(203, 70, 230);
+    border-radius: 3px;
+}
+img{
+    viewport-fit: block;
+}
+.eduimg{
+    height: 160px;
+}
+figcaption{
+    font-size: x-large;
+    padding: 1px;
+    font-family: Grenze;
+}
